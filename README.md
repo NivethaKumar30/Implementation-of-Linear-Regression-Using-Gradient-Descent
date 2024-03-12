@@ -65,7 +65,17 @@ print(f"Predicted value: {pre}")
 ```
 
 ## Output:
-![linear regression using gradient descent](sam.png)
+
+![Screenshot 2024-03-12 132259](https://github.com/NivethaKumar30/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119559844/4e8a32fa-ee32-47e4-90a9-8a82ff240735)
+
+
+![Screenshot 2024-03-12 132310](https://github.com/NivethaKumar30/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119559844/a75bd8a3-e67c-4b3b-bb7a-2af4270ca5d3)
+
+
+![Screenshot 2024-03-12 132323](https://github.com/NivethaKumar30/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119559844/fcf547d4-de06-40c4-bf74-61c6ad452e65)
+
+
+![Screenshot 2024-03-12 132327](https://github.com/NivethaKumar30/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119559844/bdc62453-8dc7-49d1-8566-b1f221f75900)
 
 
 ## Result:
